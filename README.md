@@ -5,3 +5,4 @@ A12 for DAC
 
 Connection : 3.5 mm jack for earphone left and right ear line cable connected to A0 & A1 
               Utilized 3.5mm jack of Ardinogiga for Audio output 
+![Alt text](IMG_0832.HEIC)
